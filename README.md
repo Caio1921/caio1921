@@ -26,10 +26,3 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardooldz&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
-![](https://github-readme-stats.vercel.app/api?username=bernardooldz&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=bernardooldz&theme=gruvbox&hide_border=false)<br/> -->
-
----
-[![](https://visitcount.itsvg.in/api?id=bernardooldz&icon=0&color=0)](https://visitcount.itsvg.in)
